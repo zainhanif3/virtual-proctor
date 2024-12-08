@@ -1,0 +1,6 @@
+opencv-python
+pillow
+ultralytics
+numpy
+tkinter
+PyInstaller
